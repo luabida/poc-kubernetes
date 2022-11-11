@@ -1,0 +1,7 @@
+name: poc-kubernetes
+channels:
+  - conda-forge
+  - nodefaults
+dependencies:
+  - kubernetes
+
